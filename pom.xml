@@ -28,7 +28,7 @@
         <finalName>hc-common-web</finalName>
          <plugins>
             <plugin>
-                <!--合并压缩Js/css-->
+                <!--合并压缩Js/css--> <!--合并压缩Js/css-->
                 <groupId>net.alchim31.maven</groupId>
                 <artifactId>yuicompressor-maven-plugin</artifactId>
                 <executions>
